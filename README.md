@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrcppv you can find us at https://devblogs.io
+- 👋 Hi, I’m @mrcppv you can find me at https://devblogs.io
 
 <!---
 mrcppv/mrcppv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
